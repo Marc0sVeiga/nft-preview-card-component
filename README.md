@@ -126,7 +126,7 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 Quero deixar meus agradecimentos especiais a:
 
-Claude AI, pela ajuda durante o desenvolvimento do redme, e respostas sobre duvidas decorrentes do exercício.
+Claude AI, pela ajuda durante o desenvolvimento do redme, e respostas sobre dúvidas decorrentes no exercício.
 
 Curso Dev Quest 2.0, por fornecer uma base sólida de estudo e prática.
 
