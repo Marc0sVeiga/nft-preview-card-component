@@ -4,15 +4,16 @@ Um componente de card para preview de NFT responsivo e moderno, desenvolvido com
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Preview](#preview)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Como Usar](#como-usar)
-- [Aprendizados](#aprendizados)
+- [Sobre o Projeto](#Sobre-o-projeto)
+- [Preview](#Preview)
+- [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+- [Funcionalidades](#Funcionalidades)
+- [Estrutura de Arquivos](#Estrutura-de-arquivos)
+- [Como Usar](#Como-usar)
+- [Aprendizados](#Aprendizados)
 - [Agradecimentos](#Agradecimentos)
-- [Autor](#autor)
+- [Autor](#Autor)
+- [Links](#Links)
 
 ## 🎯 Sobre o Projeto
 
@@ -137,6 +138,9 @@ Frontend Mentor, pela disponibilização dos desafios que incentivam a evoluçã
 Feito com 💙 por Marc0sVeiga
 
 ---
+## Links
+
+Site ao vivo: https://marc0sveiga.github.io/nft-preview-card-component/
 
 ## 📝 Licença
 
