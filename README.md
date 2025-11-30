@@ -11,6 +11,7 @@ Um componente de card para preview de NFT responsivo e moderno, desenvolvido com
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Como Usar](#como-usar)
 - [Aprendizados](#aprendizados)
+- [Agradecimentos](#Agradecimentos)
 - [Autor](#autor)
 
 ## 🎯 Sobre o Projeto
@@ -120,6 +121,16 @@ Durante o desenvolvimento deste projeto, foram praticados:
 - Background-image para ícones SVG
 - Flexbox para centralização e layout
 - Transições CSS para animações suaves
+
+## Agradecimentos🙏
+
+Quero deixar meus agradecimentos especiais a:
+
+Claude AI, pela ajuda durante o desenvolvimento do redme, e respostas sobre duvidas decorrentes do exercício.
+
+Curso Dev Quest 2.0, por fornecer uma base sólida de estudo e prática.
+
+Frontend Mentor, pela disponibilização dos desafios que incentivam a evolução contínua.
 
 ## 👨‍💻 Autor
 
